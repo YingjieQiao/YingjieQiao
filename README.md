@@ -8,3 +8,5 @@ You can learn more about me in [my portfolio here](https://yingjieqiao.github.io
 
 
 
+![Yingjie's GitHub stats](https://github-readme-stats.vercel.app/api?username=YingjieQiao&count_private=true?show_icons=true&theme=tokyonight)
+

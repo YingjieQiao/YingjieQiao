@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Yingjie, a software engineer from Singapore.
+My name is Yingjie, a software engineer based in Singapore.
 
 I am a Final Year computer science student at Singapore University of Technology and Design ([SUTD](https://sutd.edu.sg/)), and I am currently looking for entry-level / fresh grad opportunities starting in 2022.
 

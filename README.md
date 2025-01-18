@@ -6,5 +6,4 @@ I am currently working on the Risk Management & Compliance solutions that suppor
 
 You can learn more about me from [my portfolio here](https://yingjieqiao.github.io/) or from my [LinkedIn](https://www.linkedin.com/in/yingjie-qiao/).
 
-![Yingjie's GitHub stats](https://github-readme-stats.vercel.app/api?username=YingjieQiao&count_private=true?show_icons=true&theme=tokyonight)
 
